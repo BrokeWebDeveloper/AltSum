@@ -5,4 +5,5 @@
 ### All Latin Symbols Are The Same.
 # I Know It Sounds Hard (And I Haven't Completed the table yet) But With My Instruction From The Creator Itself You Will Be FINE.
 ## First you have to add up the sum of the alphabetical number example : lowercase c means 2+1 because the alphabetical number is 3 you have to make a sum of lowercase c like 2+1 = 3 which is the alphabetical number of lowercase c
+## It Is The Same To Uppercase Letters
 # CREDIT TO BrokeWebDeveloper
