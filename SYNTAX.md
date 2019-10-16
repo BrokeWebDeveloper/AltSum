@@ -4,12 +4,10 @@
 ## 3. when a line of code (not function or classes) is complete, end it with ; not a blank. 
 ## 4. when writing functions inside the functions put { just after the functions sums and } when the function is complete.
 ## 5. Write one line comment like this : // and end the comment like this // for multi line comment do this /* and end with */
-## 6. 15+1|20+1|1+1|11+1|8+1|4+1
-This set of sum's syntax declares a Class OR a function to be public
+## 6. This set of sum's syntax declares a Class OR a function to be public
+      15+1|20+1|1+1|11+1|8+1|4+1
+## 7. you cannot randomly put this set of sum ANYWHERE so you have to put them on top of the code, and this set of sums mean that you declare a class but you have to type the name of your file (without file extension) (encoded) for it to work
       2+1|11+1|0.5+0.5|18+1|18+1
-you cannot randomly put this set of sum ANYWHERE so you have to put them on top of the code, and this set of sums mean that you 
-declare a class but you have to type the name of your file (without file extension) (encoded) for it to work
+## 8. this set of sums mean that it WILL NOT return a value in the function otherwise remove this set of code from a function : "18+1|19+1|0.5+0.5|19+1|8+1|2+1" for this set of sums to work.
       21+1|14+1|8+1|3+1
-this set of sums mean that it WILL NOT return a value in the function otherwise remove this set of code from a function :                      "18+1|19+1|0.5+0.5|19+1|8+1|2+1" 
-for this set of sums to work. 
 # Syntax Created By BrokeWebDeveloper
