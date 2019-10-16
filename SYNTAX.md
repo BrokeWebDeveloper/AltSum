@@ -8,7 +8,7 @@
       15+1|20+1|1+1|11+1|8+1|4+1
 ### Example :
       15+1|20+1|1+1|11+1|8+1|4+1 2+1|11+1|0.5+0.5|18+1|18+1 5+1|8+1|11+1|4+1
-I have declared the class "file" to be public and can be used in any file (if 8+1|12+1|15+1|14+1|17+1|19+1 command is used (in the other file)
+I have declared the class "file" to be public and the class's contents can be used in any file/classes (if 8+1|12+1|15+1|14+1|17+1|19+1 command is used (in the other file)
 ## 7. you cannot randomly put this set of sum ANYWHERE so you have to put them on top of the code, and this set of sums mean that you declare a class but you have to type the name of your file (without file extension) (encoded) for it to work
       2+1|11+1|0.5+0.5|18+1|18+1
 ### Example :
