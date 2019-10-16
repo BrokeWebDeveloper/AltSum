@@ -10,4 +10,4 @@
       2+1|11+1|0.5+0.5|18+1|18+1
 ## 8. this set of sums mean that it WILL NOT return a value in the function otherwise remove this set of code from a function : "18+1|19+1|0.5+0.5|19+1|8+1|2+1" for this set of sums to work.
       21+1|14+1|8+1|3+1
-# Syntax Created By BrokeWebDeveloper
+# Syntax Created By BrokeWebDeveloper, Some by Java
